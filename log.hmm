@@ -1,0 +1,73 @@
+# hmmscan :: search sequence(s) against a profile database
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             AOminer_Output/Short_Gene_Operons/SGO_OperonNumber-31.faa
+# target HMM database:             dbPFhmm/TrainPresent_AOPF_nonAOPF_HMMs_ERROR_CORRECT.hmm
+# output directed to file:         log.hmm
+# per-dom hits tabular output:     AOminer_Output/Short_Gene_Operons/Homology_Search_Results/SGO_OperonNumber-31.faa.hmmout.
+# show alignments in output:       no
+# profile reporting threshold:     E-value <= 0.001
+# number of worker threads:        1
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       NZ_KB908470.1_37  [L=91]
+Description: # 39733 # 40005 # 1 # ID=17_37;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model            Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------         -----------
+    5.6e-25   85.1   0.0    6.2e-25   85.0   0.0    1.1  1  nonAOPF_7783_HMM  
+
+
+Domain annotation for each model:
+>> nonAOPF_7783_HMM  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   85.0   0.0   1.9e-28   6.2e-25      36     100 ..      21      85 ..       6      86 .. 0.96
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (91 residues searched)
+Target model(s):                        3248  (412603 nodes)
+Passed MSV filter:                        33  (0.0101601); expected 65.0 (0.02)
+Passed bias filter:                       32  (0.00985222); expected 65.0 (0.02)
+Passed Vit filter:                         3  (0.000923645); expected 3.2 (0.001)
+Passed Fwd filter:                         1  (0.000307882); expected 0.0 (1e-05)
+Initial search space (Z):               3248  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.03u 0.02s 00:00:00.05 Elapsed: 00:00:00.04
+# Mc/sec: 786.71
+//
+Query:       NZ_KB908470.1_38  [L=99]
+Description: # 39998 # 40294 # 1 # ID=17_38;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.559
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each model:
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (99 residues searched)
+Target model(s):                        3248  (412603 nodes)
+Passed MSV filter:                       145  (0.0446429); expected 65.0 (0.02)
+Passed bias filter:                      134  (0.0412562); expected 65.0 (0.02)
+Passed Vit filter:                        26  (0.00800493); expected 3.2 (0.001)
+Passed Fwd filter:                         4  (0.00123153); expected 0.0 (1e-05)
+Initial search space (Z):               3248  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.04u 0.02s 00:00:00.06 Elapsed: 00:00:00.04
+# Mc/sec: 822.72
+//
+[ok]
