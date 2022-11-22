@@ -169,11 +169,11 @@ python3 AOminer_runner.py --FNA_file sample_organisms/GCA_002194095.1_ASM219409v
 or you can only use **.fna** file as input.
 
 ```sh
-python3 AcaFind_runner.py --FNA_file sample_organisms/GCA_002194095.1_ASM219409v1_genomic.fna -o [output_dir] 
+python3 AOminer_runner.py --FNA_file sample_organisms/GCA_002194095.1_ASM219409v1_genomic.fna -o [output_dir] 
 ```
 If you wish only to input an operon
 ```sh
-python3 AcaFind_runner.py --FNA_file sample_organisms/Operon_exp.faa --just_operon -o [output_dir] 
+python3 AOminer_runner.py --FNA_file sample_organisms/Operon_exp.faa --just_operon -o [output_dir] 
 ```
 
 You will see the output result in output_dir/. If you dont specifiy an output_dir, result will be in AcaFinder_Output/
