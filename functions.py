@@ -542,21 +542,21 @@ def calculate_prob(protein_seq, state_seq, I, A, B_AO, B_NoAO):
 # medium
 # realxed
 def compare_threshold(prob, t, choice):
-    if choice == "strict":
+        if choice == "strict":
         if prob < t[0]:
-            output = [prob, True]
+            output = [abs(prob), True]
         else:
-            output = [prob, False]
+            output = [abs(prob), False]
     elif choice == "medium":
         if prob < t[1]:
-            output = [prob, True]
+            output = [abs(prob), True]
         else:
-            output = [prob, False]
+            output = [abs(prob), False]
     else:
         if prob < t[2]:
-            output = [prob, True]
+            output = [abs(prob), True]
         else:
-            output = [prob, False]
+            output = [abs(prob), False]
     return output
 
 def HMM_output(protein_seq, choice):

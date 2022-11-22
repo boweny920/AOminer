@@ -26,7 +26,7 @@ parser.add_argument('-l','--all_protein_length_in_AcrAca_operon', nargs='?', def
 parser.add_argument('-i','--intergenic_dist_in_AcrAca_operon',nargs='?',default=250,type=int,help="Maximum Intergenic distance in Acr-Aca operon")
 parser.add_argument('-w', '--Prok', action='store_true',help="Provide option -w/--Prok if input data is a Prokaryotic assembled genome/contig")
 parser.add_argument('-d','--threads',nargs='?', default="1", help="Number of cpu cores to run the program with")
-parser.add_argument('-z','--phamDir', nargs='?', default="all_pFam_hmm", help="Directory of all pfam hmm files with .dat files and other binaries")
+parser.add_argument('-z','--phamDir', nargs='?', default="---", help="Directory of all pfam hmm files with .dat files and other binaries")
 parser.add_argument('-r','--Acr_protein_database',nargs='?',default="publishedACRs.faa",help="The Acr proteins published")
 parser.add_argument('-a','--HTH_HMM',nargs='?',default="HTH_hmms/HTH_HMM_strict",help="Curated HTH database")
 parser.add_argument('-e','--PfamScan_evalue',nargs='?', default="1e-1", help="Evalue cut-off for Pfam annotation")

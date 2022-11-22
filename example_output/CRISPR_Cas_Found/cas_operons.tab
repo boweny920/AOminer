@@ -1,0 +1,2 @@
+Contig	Operon	Start	End	Prediction	Complete_Interference	Complete_Adaptation	Best_type	Best_score	Genes	Positions	E-values	CoverageSeq	CoverageHMM	Strand_Interference	Strand_Adaptation
+NIPA01000109.1	NIPA01000109.1@1	37665	45804	I-F	100%	100%	I-F	16.299999999999997	['Cas6f_2_CAS-I-II-III-IV-V-VI', 'Cas7f_2_CAS-I-F', 'Cas5f_2_CAS-I-F', 'Cas8f_3_CAS-I-F', 'Cas3-Cas2_0_CAS-I-F', 'Cas1_0_IF']	[26, 27, 28, 29, 30, 31]	['4.00e-63', '1.10e-149', '1.90e-106', '8.70e-147', '0.00e+00', '2.90e-154']	[0.979, 0.962, 0.936, 0.851, 0.995, 0.945]	[1.0, 1.0, 0.997, 0.997, 0.999, 1.0]	-1	-1

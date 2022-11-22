@@ -1,0 +1,21 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+nonAOPF_66_HMM       -            150 NIPA01000040.1_235   -            145     6e-58  192.6   0.1   1   1   1.4e-60   6.7e-58  192.5   0.1     2   149     1   140     1   141 0.98 -
+nonAOPF_630_HMM      -            159 NIPA01000040.1_235   -            145   1.6e-37  126.5   0.0   1   1   4.3e-40     2e-37  126.1   0.0    24   154     9   138     5   142 0.96 -
+AOPF_9_HMM           -            164 NIPA01000040.1_235   -            145   6.8e-33  111.4   0.0   1   1   1.9e-35   8.7e-33  111.1   0.0    31   160    12   140     7   143 0.95 -
+nonAOPF_523_HMM      -            165 NIPA01000040.1_235   -            145   1.3e-32  110.5   0.0   1   1   3.2e-35   1.5e-32  110.3   0.0    33   161    13   140     3   143 0.95 -
+nonAOPF_5535_HMM     -            179 NIPA01000040.1_235   -            145   6.4e-27   91.8   0.0   1   1   1.6e-29   7.2e-27   91.7   0.0    30   175     1   141     1   144 0.91 -
+nonAOPF_264_HMM      -            177 NIPA01000040.1_235   -            145   4.7e-18   63.0   0.0   1   1   1.2e-20   5.8e-18   62.7   0.0    31   149    11   124     5   140 0.91 -
+nonAOPF_8518_HMM     -            161 NIPA01000040.1_235   -            145   2.7e-06   25.1   0.0   1   2   8.9e-06    0.0041   14.7   0.0     9    36     8    35     2    42 0.82 -
+nonAOPF_8518_HMM     -            161 NIPA01000040.1_235   -            145   2.7e-06   25.1   0.0   2   2   0.00066      0.31    8.6   0.0    63   149    44   125    39   135 0.82 -
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      AOminer_Output/Short_Gene_Operons/SGO_OperonNumber-98.faa
+# Target file:     dbPFhmm/TrainPresent_AOPF_nonAOPF_HMMs_ERROR_CORRECT.hmm
+# Option settings: hmmscan -o log.hmm --domtblout AOminer_Output/Short_Gene_Operons/Homology_Search_Results/SGO_OperonNumber-98.faa.hmmout. --noali -E 1e-3 --cpu 1 dbPFhmm/TrainPresent_AOPF_nonAOPF_HMMs_ERROR_CORRECT.hmm AOminer_Output/Short_Gene_Operons/SGO_OperonNumber-98.faa 
+# Current dir:     /mnt/raid5-2/boweny/AOminer/AOminer_V2
+# Date:            Mon Nov 21 14:05:10 2022
+# [ok]

@@ -1,0 +1,35 @@
+# pfam_scan.pl,  run at Mon Nov 21 14:24:49 2022
+#
+# Copyright (c) 2009 Genome Research Ltd
+# Freely distributed under the GNU 
+# General Public License
+#
+# Authors: Jaina Mistry (jaina@ebi.ac.uk), 
+#          Rob Finn (rdf@ebi.ac.uk)
+#
+# This is free software; you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation; either version 2 of the License, or (at your option) any later version.
+# This program is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <http://www.gnu.org/licenses/>. 
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#      query sequence file: AOminer_Output/Short_Gene_Operons/SGO_OperonNumber-24.faa
+#     cpu number specified: 1
+#        searching against: ../all_pFam_hmm//Pfam-A.hmm, with cut off -E 1e-1
+#    resolve clan overlaps: on
+#     predict active sites: off
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan>
+
+NIPA01000050.1_54     54    147     54    149 PF03168.16  LEA_2             Domain     1    99   101     77.0   1.5e-21   1 CL0159   
+NIPA01000050.1_55      3     32      3     32 PF08274.15  YjdM_Zn_Ribbon    Domain     1    30    30     61.8   4.4e-17   1 CL0167   
+NIPA01000050.1_55      4     32      2     33 PF08063.15  PADR1             Domain    13    41    53     10.0      0.65   0 CL0306   
+NIPA01000050.1_55      6     28      3     31 PF14446.9   Prok-RING_1       Family     6    27    54     12.8     0.097   0 CL0229   
+NIPA01000050.1_55      6     36      2     71 PF10080.12  FtrD-like         Family    36    66   101     12.4      0.15   0 No_clan  
+NIPA01000050.1_55     46    113     46    113 PF03831.17  YjdM              Domain     1    69    69    112.3   7.8e-33   1 CL0010   

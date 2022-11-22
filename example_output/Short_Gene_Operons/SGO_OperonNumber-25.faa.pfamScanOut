@@ -1,0 +1,37 @@
+# pfam_scan.pl,  run at Mon Nov 21 14:24:49 2022
+#
+# Copyright (c) 2009 Genome Research Ltd
+# Freely distributed under the GNU 
+# General Public License
+#
+# Authors: Jaina Mistry (jaina@ebi.ac.uk), 
+#          Rob Finn (rdf@ebi.ac.uk)
+#
+# This is free software; you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation; either version 2 of the License, or (at your option) any later version.
+# This program is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <http://www.gnu.org/licenses/>. 
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#      query sequence file: AOminer_Output/Short_Gene_Operons/SGO_OperonNumber-25.faa
+#     cpu number specified: 1
+#        searching against: ../all_pFam_hmm//Pfam-A.hmm, with cut off -E 1e-1
+#    resolve clan overlaps: on
+#     predict active sites: off
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan>
+
+NIPA01000059.1_1      3     44      1     50 PF19723.2   DUF6216           Family   104   147   269     11.1      0.18   0 No_clan  
+NIPA01000059.1_1      7     97      6     99 PF01757.25  Acyl_transf_3     Family   209   294   340     14.4     0.016   0 CL0316   
+NIPA01000059.1_1     11     91      5     98 PF19744.2   DUF6232           Family    27    82   117     17.6    0.0042   0 No_clan  
+NIPA01000059.1_1     14     90     14     93 PF19545.2   DUF6069           Family     1    77   130     14.5      0.03   0 No_clan  
+NIPA01000059.1_1     56     90     54     96 PF14927.9   Neurensin         Family    91   125   133     10.4      0.44   0 No_clan  
+NIPA01000059.1_2     41     80     36    116 PF10664.12  NdhM              Family    11    48   107     12.7      0.13   0 No_clan  
+NIPA01000059.1_2     95    176     95    176 PF01713.24  Smr               Family     1    80    80     75.9   2.5e-21   1 No_clan  
+NIPA01000059.1_3      4    180      3    181 PF01227.25  GTP_cyclohydroI   Domain     2   178   179    254.4   4.4e-76   1 CL0334   

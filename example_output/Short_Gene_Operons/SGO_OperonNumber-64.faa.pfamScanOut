@@ -1,0 +1,34 @@
+# pfam_scan.pl,  run at Mon Nov 21 14:24:53 2022
+#
+# Copyright (c) 2009 Genome Research Ltd
+# Freely distributed under the GNU 
+# General Public License
+#
+# Authors: Jaina Mistry (jaina@ebi.ac.uk), 
+#          Rob Finn (rdf@ebi.ac.uk)
+#
+# This is free software; you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation; either version 2 of the License, or (at your option) any later version.
+# This program is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <http://www.gnu.org/licenses/>. 
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#      query sequence file: AOminer_Output/Short_Gene_Operons/SGO_OperonNumber-64.faa
+#     cpu number specified: 1
+#        searching against: ../all_pFam_hmm//Pfam-A.hmm, with cut off -E 1e-1
+#    resolve clan overlaps: on
+#     predict active sites: off
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan>
+
+NIPA01000102.1_224     22    182     21    183 PF04229.17  GrpB              Domain     2   159   160    167.2   3.5e-49   1 CL0260   
+NIPA01000102.1_225     16    132     14    137 PF01597.22  GCV_H             Domain     3   117   122     84.8   4.5e-24   1 CL0105   
+NIPA01000102.1_226      9    124      8    125 PF02635.18  DrsE              Domain     2   116   117     60.3   2.1e-16   1 CL0394   
+NIPA01000102.1_227     36    133     16    133 PF00583.28  Acetyltransf_1    Family    15   117   117     42.7   6.3e-11   1 CL0257   
+NIPA01000102.1_228     24    186     22    186 PF13590.9   DUF4136           Domain     3   131   131    101.8   4.4e-29   1 No_clan  

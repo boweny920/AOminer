@@ -115,7 +115,7 @@ class AO_Find_process:
                     df_AO["With HTH"]=AO_hth_homologs_list
                     ##Add prophage & CRISPR into df##
                     if prophage_regions is not None:
-                        prophage_containing_AcaOperon_list = [prophage_harboring_operonFind(df_outTable, prophage_regions)] * len(AO["check_result"])  # Contig:startPos-endPos/None
+                        prophage_containing_AcaOperon_list = [prophage_harboring_operonFind(df_AO, prophage_regions)] * len(AO["check_result"])  # Contig:startPos-endPos/None
                     else: prophage_containing_AcaOperon_list=[np.nan] * len(AO["check_result"])
                     df_AO["Operon in Prophage"]=prophage_containing_AcaOperon_list
                     if complete_CRISPR_Cas_systems is not None:
@@ -132,7 +132,7 @@ class AO_Find_process:
                     df_AO["Protein Sequence"]=operon_faa_list
                     ### Pfam annotation
                     dic_pfam = pfamScan_run(AO["SGO_filename"], self.phamDir, self.threads, self.PfamScan_evalue)
-                    #dic_pfam={}
+                    # dic_pfam={}
                     pfam_list=[]
                     for protein in AO["operon"]:
                         if protein[1] in dic_pfam:

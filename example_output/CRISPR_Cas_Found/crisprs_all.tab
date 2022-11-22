@@ -1,0 +1,3 @@
+Contig	CRISPR	Start	End	Consensus_repeat	N_repeats	Repeat_len	Spacer_len_avg	Repeat_identity	Spacer_identity	Spacer_len_sem	Trusted	Prediction	Subtype	Subtype_probability
+NIPA01000109.1	NIPA01000109.1_1	36374	37541	GTTCACTGCCGTATAGGCAGCTAAGAAA	20	28	32	98.6	43.7	0.0	True	I-F	I-F	1.0
+NIPA01000109.1	NIPA01000109.1_2	46066	48193	TTTCTTAGCTGCCTACACGGCAGTGAAC	36	28	32	100.0	42.6	0.0	True	I-F	I-F	0.986

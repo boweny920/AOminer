@@ -1,0 +1,31 @@
+# pfam_scan.pl,  run at Mon Nov 21 14:25:01 2022
+#
+# Copyright (c) 2009 Genome Research Ltd
+# Freely distributed under the GNU 
+# General Public License
+#
+# Authors: Jaina Mistry (jaina@ebi.ac.uk), 
+#          Rob Finn (rdf@ebi.ac.uk)
+#
+# This is free software; you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation; either version 2 of the License, or (at your option) any later version.
+# This program is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <http://www.gnu.org/licenses/>. 
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#      query sequence file: AOminer_Output/Short_Gene_Operons/SGO_OperonNumber-114.faa
+#     cpu number specified: 1
+#        searching against: ../all_pFam_hmm//Pfam-A.hmm, with cut off -E 1e-1
+#    resolve clan overlaps: on
+#     predict active sites: off
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan>
+
+NIPA01000027.1_213     30    166     30    167 PF05618.14  Zn_protease       Family     1   137   138    165.0   9.1e-49   1 CL0129   
+NIPA01000027.1_214      5     67      4     68 PF00313.25  CSD               Domain     2    65    66     99.9   5.7e-29   1 CL0021   

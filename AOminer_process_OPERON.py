@@ -74,7 +74,7 @@ class AO_Find_process:
 
             ### Pfam annotation
             dic_pfam = pfamScan_run(self.faa, self.phamDir, self.threads, self.PfamScan_evalue)
-            #dic_pfam={}
+            # dic_pfam={}
             pfam_list = []
             for protein in list_faa:
                 if protein in dic_pfam:
