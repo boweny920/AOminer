@@ -403,7 +403,7 @@ def pfamScan_run(operon_faa_file, pfam_hmm_dir,threads,HTH_alignment_evalue):
     dic_pfam={}
     for record in SeqIO.parse(operon_faa_file,"fasta"):
         info_list=[]
-        for line in subprocess.Popen(["grep", record.id,pfamOut_file],stdout=subprocess.PIPE).stdout:
+        for line in subprocess.Popen([f"grep -v '#' {pfamOut_file}|grep {record.id}"],shell=True,stdout=subprocess.PIPE).stdout:
             line=line.decode('utf-8').rstrip().split()
             if len(line)>1:
                 info_list.append("|".join([line[5],line[6],line[12],line[14]])) #hmmacc|hmmname|evalue|clan

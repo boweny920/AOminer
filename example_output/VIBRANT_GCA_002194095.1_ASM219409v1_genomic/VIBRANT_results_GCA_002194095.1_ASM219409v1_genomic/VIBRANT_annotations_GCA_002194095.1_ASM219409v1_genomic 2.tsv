@@ -1,0 +1,345 @@
+protein	scaffold	KO	AMG	KO name	KO evalue	KO score	KO v-score	Pfam	Pfam name	Pfam evalue	Pfam score	Pfam v-score	VOG	VOG name	VOG evalue	VOG score	VOG v-score
+NIPA01000047.1_1	NIPA01000047.1							PF13730.6	Helix-turn-helix domain	1.4e-12	43.6	0.31	VOG01283	REFSEQ hypothetical protein	1.3e-12	43.7	1.55
+NIPA01000047.1_2	NIPA01000047.1							PF10544.9	T5orf172 domain	3.6e-14	49.3	0.21	VOG02447	REFSEQ hypothetical protein	1.1e-12	43.3	0.35
+NIPA01000047.1_3	NIPA01000047.1																
+NIPA01000047.1_4	NIPA01000047.1							PF05269.11	Bacteriophage CII protein	1.1e-11	41.0	1.0					
+NIPA01000047.1_5	NIPA01000047.1																
+NIPA01000047.1_6	NIPA01000047.1	K22300		"dicA; HTH-type transcriptional regulator, cell division transcriptional repressor"	6.5e-18	63.6	2.08	PF01381.22	Helix-turn-helix	1.8e-11	40.1	5.99	VOG02771	sp|P03034|RPC1_LAMBD Repressor protein cI	2.4e-20	69.4	10.0
+NIPA01000047.1_7	NIPA01000047.1																
+NIPA01000047.1_8	NIPA01000047.1																
+NIPA01000047.1_9	NIPA01000047.1												VOG02541	sp|P77147|YDHT_ECOLI Uncharacterized protein YdhT	6.1e-70	231.8	0.58
+NIPA01000047.1_10	NIPA01000047.1							PF18406.1	Ferredoxin-like domain in Api92-like protein	3.5e-20	67.7	0.02					
+NIPA01000047.1_11	NIPA01000047.1							PF04448.12	Protein of unknown function (DUF551)	1.6e-12	44.3	0.56	VOG00088	sp|P14108|Y7K8_BPP22 Uncharacterized 7.8 kDa protein in ral-gp17 intergenic region	1.3e-16	56.8	1.55
+NIPA01000047.1_12	NIPA01000047.1												VOG00072	sp|P14107|Y8K6_BPP22 Uncharacterized 8.6 kDa protein in ral-gp17 intergenic region	2.1e-13	46.3	2.29
+NIPA01000047.1_13	NIPA01000047.1																
+NIPA01000047.1_14	NIPA01000047.1												VOG21741	REFSEQ hypothetical protein	1.1e-103	338.8	0.06
+NIPA01000047.1_15	NIPA01000047.1												VOG16833	REFSEQ hypothetical protein	7.4e-77	250.9	0.09
+NIPA01000047.1_16	NIPA01000047.1												VOG00535	REFSEQ hypothetical protein	2.7e-23	78.7	1.51
+NIPA01000047.1_17	NIPA01000047.1												VOG04808	REFSEQ hypothetical protein	6.5e-73	239.1	0.21
+NIPA01000047.1_18	NIPA01000047.1												VOG03735	REFSEQ hypothetical protein	4e-27	89.9	0.24
+NIPA01000047.1_19	NIPA01000047.1												VOG04660	REFSEQ hypothetical protein	2.1e-29	96.9	0.42
+NIPA01000047.1_20	NIPA01000047.1												VOG11477	REFSEQ hypothetical protein	4.900000000000001e-118	390.1	1.09
+NIPA01000047.1_21	NIPA01000047.1							PF03837.14	RecT family	4.1e-27	91.1	2.53	VOG10469	sp|P03698|VBET_LAMBD Recombination protein bet	2.4e-37	125.0	10.0
+NIPA01000047.1_22	NIPA01000047.1	K01143		E3.1.11.3; exodeoxyribonuclease (lambda-induced) [EC:3.1.11.3]	2.5e-56	189.2	0.69	PF09588.10	YqaJ-like viral recombinase domain	3.2e-20	68.9	0.93	VOG01132	sp|P03697|EXO_LAMBD Exonuclease	4.7e-42	139.6	4.77
+NIPA01000047.1_23	NIPA01000047.1	K08083		"algR; two-component system, LytTR family, response regulator AlgR"	9.6e-25	85.9	0.03	PF04397.15	LytTr DNA-binding domain	2e-12	43.4	0.08	VOG12646	REFSEQ putative transcriptional regulator	2.5999999999999997e-47	156.6	0.17
+NIPA01000047.1_24	NIPA01000047.1												VOG19817	REFSEQ hypothetical protein	1.1e-44	146.1	0.15
+NIPA01000047.1_25	NIPA01000047.1												VOG04465	REFSEQ hypothetical protein	1.4000000000000001e-30	101.5	0.27
+NIPA01000047.1_26	NIPA01000047.1												VOG16832	REFSEQ hypothetical protein	7.4e-38	124.4	0.1
+NIPA01000047.1_27	NIPA01000047.1												VOG00408	REFSEQ hypothetical protein	1.1e-44	149.7	0.73
+NIPA01000047.1_28	NIPA01000047.1																
+NIPA01000047.1_29	NIPA01000047.1												VOG12645	REFSEQ hypothetical protein	9e-54	177.9	0.42
+NIPA01000047.1_30	NIPA01000047.1												VOG18104	REFSEQ hypothetical protein	9.900000000000002e-44	143.1	0.06
+NIPA01000034.1_1	NIPA01000034.1	K22014		Nu1; terminase small subunit	1.4000000000000002e-23	82.2	1.0	PF07471.12	Phage DNA packaging protein Nu1	1.8e-13	46.7	1.0	VOG00720	sp|P03707|TERS_LAMBD Terminase small subunit	3.3e-19	65.2	2.11
+NIPA01000034.1_2	NIPA01000034.1	K21512		"gpA; terminase, large subunit [EC:3.1.21.4]"	4.8e-249	826.9	1.08	PF05876.12	Phage terminase large subunit (GpA)	4.8e-120	397.8	1.74					
+NIPA01000034.1_3	NIPA01000034.1												VOG21902	REFSEQ head-tail connector	2.9e-16	55.2	1.0
+NIPA01000034.1_4	NIPA01000034.1							PF05136.13	"Phage portal protein, lambda family"	9.300000000000001e-110	363.3	1.11	VOG01666	sp|P36272|PORTL_BPP21 Portal protein B	2.9e-97	322.0	3.18
+NIPA01000034.1_5	NIPA01000034.1												VOG16435	REFSEQ hypothetical protein	8.4e-15	50.1	0.36
+NIPA01000034.1_6	NIPA01000034.1							PF09956.9	Uncharacterized conserved protein (DUF2190)	1.7e-21	72.8	0.36	VOG01099	REFSEQ hypothetical protein	5.9e-15	51.4	0.75
+NIPA01000034.1_7	NIPA01000034.1												VOG23627	REFSEQ hypothetical protein	1.8e-23	78.7	0.24
+NIPA01000034.1_8	NIPA01000034.1																
+NIPA01000034.1_9	NIPA01000034.1																
+NIPA01000034.1_10	NIPA01000034.1												VOG01417	sp|O31963|YOMU_BACSU SPBc2 prophage-derived uncharacterized protein YomU	2.7e-41	137.5	2.67
+NIPA01000034.1_11	NIPA01000034.1	K08084		fimT; type IV fimbrial biogenesis protein FimT	5.6e-25	87.1	0.03						VOG00558	REFSEQ hypothetical protein	3.7e-47	155.4	1.15
+NIPA01000034.1_12	NIPA01000034.1																
+NIPA01000034.1_13	NIPA01000034.1												VOG17024	REFSEQ hypothetical protein	1.1e-50	166.4	0.26
+NIPA01000034.1_14	NIPA01000034.1												VOG21749	REFSEQ putative tail protein	2.1999999999999997e-62	207.3	1.0
+NIPA01000034.1_15	NIPA01000034.1												VOG16835	REFSEQ hypothetical protein	2.7e-103	338.7	0.28
+NIPA01000034.1_16	NIPA01000034.1												VOG16836	REFSEQ hypothetical protein	4.3e-122	404.0	0.31
+NIPA01000112.1_1	NIPA01000112.1							PF05106.12	Phage holin family (Lysis protein S)	2.9e-32	107.2	1.0	VOG01571	sp|P03705|HOLIN_LAMBD Antiholin	2.9999999999999998e-36	119.8	2.29
+NIPA01000112.1_2	NIPA01000112.1	K03791		K03791; putative chitinase	1.7000000000000001e-65	220.1	2.36						VOG23339	REFSEQ gp5 baseplate hub subunit and tail lysozyme	4.4e-50	166.7	2.48
+NIPA01000112.1_3	NIPA01000112.1	K14744		rzpD; prophage endopeptidase [EC:3.4.-.-]	2.8e-25	87.8	1.01						VOG01059	"sp|P00726|SPAN1_LAMBD Spanin, inner membrane subunit"	7.6e-30	100.0	6.8
+NIPA01000112.1_4	NIPA01000112.1												VOG00959	sp|O64325|COMPL_BPN15 Tail completion protein	2e-58	193.5	1.36
+NIPA01000041.1_1	NIPA01000041.1												VOG13921	REFSEQ hypothetical protein	4.1e-40	132.3	0.83
+NIPA01000041.1_2	NIPA01000041.1												VOG01433	REFSEQ hypothetical protein	1.3999999999999999e-63	211.2	0.54
+NIPA01000041.1_3	NIPA01000041.1												VOG01455	REFSEQ hypothetical protein	9.499999999999999e-49	159.6	0.37
+NIPA01000041.1_4	NIPA01000041.1												VOG16250	REFSEQ hypothetical protein	8.1e-100	327.7	0.33
+NIPA01000041.1_5	NIPA01000041.1												VOG23628	REFSEQ hypothetical protein	3e-43	142.1	0.29
+NIPA01000041.1_6	NIPA01000041.1												VOG01796	REFSEQ hypothetical protein	3.5000000000000004e-89	293.3	0.39
+NIPA01000006.1_1	NIPA01000006.1	K22014		Nu1; terminase small subunit	8.599999999999999e-35	118.7	1.0	PF07471.12	Phage DNA packaging protein Nu1	1.7e-13	46.8	1.0	VOG00720	sp|P03707|TERS_LAMBD Terminase small subunit	7.3e-40	132.6	2.11
+NIPA01000006.1_2	NIPA01000006.1	K21512		"gpA; terminase, large subunit [EC:3.1.21.4]"	1.7000000000000002e-249	828.3	1.08	PF05876.12	Phage terminase large subunit (GpA)	2e-120	399.0	1.74					
+NIPA01000006.1_3	NIPA01000006.1												VOG13570	REFSEQ hypothetical protein	7.699999999999999e-35	114.2	0.47
+NIPA01000006.1_4	NIPA01000006.1							PF05136.13	"Phage portal protein, lambda family"	5.1e-87	288.5	1.11	VOG01666	sp|P36272|PORTL_BPP21 Portal protein B	2.6e-130	431.1	3.18
+NIPA01000006.1_5	NIPA01000006.1	K01358		"clpP, CLPP; ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]"	1.8e-34	118.2	2.48	PF00574.23	Clp protease	3.6e-38	127.4	2.58	VOG00719	sp|A3N1T0|CLPP_ACTP2 ATP-dependent Clp protease proteolytic subunit	4.3e-67	223.2	10.0
+NIPA01000006.1_6	NIPA01000006.1												VOG01099	REFSEQ hypothetical protein	2.4e-27	91.4	0.75
+NIPA01000006.1_7	NIPA01000006.1												VOG23627	REFSEQ hypothetical protein	2e-74	242.7	0.24
+NIPA01000006.1_8	NIPA01000006.1																
+NIPA01000006.1_9	NIPA01000006.1																
+NIPA01000006.1_10	NIPA01000006.1												VOG01417	sp|O31963|YOMU_BACSU SPBc2 prophage-derived uncharacterized protein YomU	8.7e-46	152.3	2.67
+NIPA01000006.1_11	NIPA01000006.1																
+NIPA01000006.1_12	NIPA01000006.1												VOG17024	REFSEQ hypothetical protein	3.5e-48	158.3	0.26
+NIPA01000006.1_13	NIPA01000006.1												VOG21749	REFSEQ putative tail protein	1.5e-36	121.9	1.0
+NIPA01000078.1_1	NIPA01000078.1												VOG00163	sp|P28947|OBP_EHV1B Replication origin-binding protein	1.6e-108	360.3	0.3
+NIPA01000078.1_2	NIPA01000078.1																
+NIPA01000078.1_3	NIPA01000078.1							PF16684.5	Telomere resolvase	5.9e-23	77.8	0.12	VOG15166	REFSEQ protelomerase	9.2e-148	489.1	0.24
+NIPA01000078.1_4	NIPA01000078.1	K03496		"parA, soj; chromosome partitioning protein"	2.2e-44	151.0	0.85	PF13614.6	AAA domain	9.4e-27	90.2	0.73	VOG10286	sp|P07620|PARA_ECOLX Plasmid partition protein A	2.9999999999999997e-44	147.4	2.49
+NIPA01000078.1_5	NIPA01000078.1												VOG15165	REFSEQ hypothetical protein	2.4e-19	65.5	0.11
+NIPA01000078.1_6	NIPA01000078.1																
+NIPA01000078.1_7	NIPA01000078.1																
+NIPA01000078.1_8	NIPA01000078.1																
+NIPA01000078.1_9	NIPA01000078.1	K00558	AMG	"DNMT1, dcm; DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]"	2.4e-55	186.3	3.5	PF00145.17	C-5 cytosine-specific DNA methylase	6e-39	130.4	3.75	VOG01461	sp|P05302|MTD1_DESNO Modification methylase DdeI	3.4e-57	189.6	1.68
+NIPA01000078.1_10	NIPA01000078.1	K02342		dnaQ; DNA polymerase III subunit epsilon [EC:2.7.7.7]	6.2e-40	135.9	1.46	PF00929.24	Exonuclease	1.2e-20	70.9	1.28	VOG00231	sp|P04536|EXOD_BPT4 Exodeoxyribonuclease	1.0000000000000001e-28	96.5	10.0
+NIPA01000078.1_11	NIPA01000078.1																
+NIPA01000078.1_12	NIPA01000078.1	K06905		K06905; uncharacterized protein	2.8e-77	259.1	0.73						VOG00534	sp|P10312|BPD_BPP2 Probable baseplate hub protein	4.1e-46	153.4	3.45
+NIPA01000078.1_13	NIPA01000078.1							PF05489.12	Phage Tail Protein X	1.2e-12	43.5	1.0					
+NIPA01000078.1_14	NIPA01000078.1	K06906		K06906; uncharacterized protein	1.3000000000000001e-32	111.4	0.61	PF06995.11	Phage P2 GpU	1.4e-26	88.6	1.0	VOG02176	sp|B0ZSH1|TMP_BPHA1 Probable tape measure protein	2.8e-31	105.0	1.6
+NIPA01000078.1_15	NIPA01000078.1							PF10145.9	Phage-related minor tail protein	1.6e-30	102.6	4.37	VOG03144	REFSEQ hypothetical protein	2e-79	263.3	1.58
+NIPA01000078.1_16	NIPA01000078.1																
+NIPA01000078.1_17	NIPA01000078.1							PF10109.9	"Phage tail assembly chaperone proteins, E, or 41 or 14"	2.3e-14	49.4	1.0	VOG24160	REFSEQ hypothetical protein	2e-37	124.7	0.07
+NIPA01000078.1_18	NIPA01000078.1	K06908		K06908; uncharacterized protein	1.4e-20	72.7	0.62	PF04985.14	Phage tail tube protein FII	1.3e-19	66.6	1.0	VOG10266	sp|P22502|TUBE_BPP2 Tail tube protein	2.1e-29	98.0	1.64
+NIPA01000078.1_19	NIPA01000078.1	K06907		K06907; uncharacterized protein	3.3999999999999997e-31	107.1	2.77						VOG00295	sp|P13332|TSP_BPT4 Tail sheath protein	3.1e-21	71.5	10.0
+NIPA01000078.1_20	NIPA01000078.1																
+NIPA01000078.1_21	NIPA01000078.1																
+NIPA01000078.1_22	NIPA01000078.1							PF16778.5	Phage tail assembly chaperone protein	2.1999999999999997e-25	84.5	1.0	VOG00325	REFSEQ hypothetical protein	8e-21	70.8	0.52
+NIPA01000078.1_23	NIPA01000078.1																
+NIPA01000078.1_24	NIPA01000078.1												VOG04756	REFSEQ putative tail fiber protein	4.3e-56	185.9	2.95
+NIPA01000078.1_25	NIPA01000078.1																
+NIPA01000078.1_26	NIPA01000078.1												VOG01796	REFSEQ hypothetical protein	2.3e-26	88.3	0.39
+NIPA01000078.1_27	NIPA01000078.1												VOG00508	REFSEQ hypothetical protein	1.1999999999999999e-46	155.5	1.85
+NIPA01000078.1_28	NIPA01000078.1							PF09684.10	Phage tail protein (Tail_P2_I)	3.7e-26	87.8	1.0	VOG01944	sp|P26701|BPI_BPP2 Baseplate protein I	8.400000000000001e-36	119.0	1.87
+NIPA01000078.1_29	NIPA01000078.1							PF04865.14	Baseplate J-like protein	7.4e-19	64.0	2.88	VOG00243	sp|P51767|BPJ_BPP2 Baseplate protein J	2.1e-19	65.4	10.0
+NIPA01000078.1_30	NIPA01000078.1	K06903		K06903; uncharacterized protein	1.5e-12	46.4	1.86										
+NIPA01000078.1_31	NIPA01000078.1							PF04717.12	"Type VI secretion system, phage-baseplate injector"	3.7e-26	87.4	1.0	VOG00751	sp|P31340|SPIKE_BPP2 Spike protein	9.6e-18	60.7	9.01
+NIPA01000078.1_32	NIPA01000078.1												VOG03005	REFSEQ hypothetical protein	5.3999999999999994e-24	80.8	0.54
+NIPA01000078.1_33	NIPA01000078.1												VOG00959	sp|O64325|COMPL_BPN15 Tail completion protein	1e-35	119.4	1.36
+NIPA01000078.1_34	NIPA01000078.1												VOG02067	sp|O64324|FII_BPN15 Head-tail joining protein	6.9e-16	54.2	1.0
+NIPA01000078.1_35	NIPA01000078.1																
+NIPA01000078.1_36	NIPA01000078.1							PF05065.13	Phage capsid family	2.6000000000000002e-30	101.8	5.12	VOG00633	sp|O64210|CAPSD_BPMD2 Probable major capsid protein gp17	7.3e-61	202.6	10.0
+NIPA01000078.1_37	NIPA01000078.1							PF05136.13	"Phage portal protein, lambda family"	6.5e-94	311.1	1.11	VOG01666	sp|P36272|PORTL_BPP21 Portal protein B	8.9e-118	389.7	3.18
+NIPA01000078.1_38	NIPA01000078.1												VOG15614	REFSEQ hypothetical protein	9e-57	187.6	0.28
+NIPA01000078.1_39	NIPA01000078.1	K21512		"gpA; terminase, large subunit [EC:3.1.21.4]"	1.4e-32	111.5	1.08	PF05876.12	Phage terminase large subunit (GpA)	4e-92	305.6	1.74	VOG09810	"sp|P17312|TERL_BPT4 Terminase, large subunit"	1.3e-18	63.8	10.0
+NIPA01000078.1_40	NIPA01000078.1	K22014		Nu1; terminase small subunit	8.1e-23	79.8	1.0						VOG00720	sp|P03707|TERS_LAMBD Terminase small subunit	5.5000000000000005e-30	100.4	2.11
+NIPA01000078.1_41	NIPA01000078.1							PF13876.6	Phage protein (N4 Gp49/phage Sf6 gene 66) family	7.8e-18	60.7	1.0	VOG11117	REFSEQ hypothetical protein	1.1e-21	72.6	2.01
+NIPA01000078.1_42	NIPA01000078.1												VOG14099	REFSEQ hypothetical protein	2.0999999999999998e-47	156.9	0.17
+NIPA01000078.1_43	NIPA01000078.1	K01185		E3.2.1.17; lysozyme [EC:3.2.1.17]	8.1e-33	113.0	4.48	PF00959.19	Phage lysozyme	1.4e-13	47.4	3.03	VOG00308	sp|P16009|BP5_BPT4 Baseplate central spike complex protein gp5	6.7e-34	113.7	10.0
+NIPA01000078.1_44	NIPA01000078.1																
+NIPA01000078.1_45	NIPA01000078.1																
+NIPA01000078.1_46	NIPA01000078.1																
+NIPA01000078.1_47	NIPA01000078.1							PF06323.11	Phage antitermination protein Q	1.4e-27	92.8	1.0	VOG14089	sp|P13870|REGQ_BP82 Antitermination protein Q	2.9999999999999998e-55	183.0	0.23
+NIPA01000078.1_48	NIPA01000078.1																
+NIPA01000078.1_49	NIPA01000078.1																
+NIPA01000078.1_50	NIPA01000078.1												VOG11438	REFSEQ hypothetical protein	5.1e-13	45.1	0.65
+NIPA01000078.1_51	NIPA01000078.1												VOG15167	REFSEQ hypothetical protein	3.5e-52	172.9	0.15
+NIPA01000078.1_52	NIPA01000078.1	K01356		lexA; repressor LexA [EC:3.4.21.88]	3.2e-13	48.3	2.88						VOG02771	sp|P03034|RPC1_LAMBD Repressor protein cI	5.6e-13	45.5	10.0
+NIPA01000078.1_53	NIPA01000078.1																
+NIPA01000055.1_1	NIPA01000055.1												VOG01796	REFSEQ hypothetical protein	5.4e-16	54.4	0.39
+NIPA01000055.1_2	NIPA01000055.1												VOG21750	REFSEQ hypothetical protein	0.0	1309.9	0.32
+NIPA01000055.1_3	NIPA01000055.1												VOG16838	REFSEQ hypothetical protein	4.8e-81	265.7	0.29
+NIPA01000055.1_4	NIPA01000055.1												VOG16837	REFSEQ hypothetical protein	6.9e-94	308.5	0.28
+NIPA01000069.1_1	NIPA01000069.1												VOG01796	REFSEQ hypothetical protein	5.4e-16	54.4	0.39
+NIPA01000069.1_2	NIPA01000069.1																
+NIPA01000069.1_3	NIPA01000069.1												VOG16838	REFSEQ hypothetical protein	1.9e-85	279.9	0.29
+NIPA01000069.1_4	NIPA01000069.1												VOG16837	REFSEQ hypothetical protein	1.9e-96	316.8	0.28
+NIPA01000018.1_fragment_3_313	NIPA01000018.1_fragment_3	K04763		xerD; integrase/recombinase XerD	2e-13	49.2	2.87	PF00589.22	Phage integrase family	4.3e-16	55.3	9.33	VOG00041	sp|O10330|VLF1_NPVOP Very late expression factor 1	2.6e-40	134.7	10.0
+NIPA01000018.1_fragment_3_314	NIPA01000018.1_fragment_3							PF11112.8	Pyocin activator protein PrtN	7.2e-32	105.5	0.11	VOG19845	REFSEQ excisionase	2.4e-32	107.1	0.21
+NIPA01000018.1_fragment_3_315	NIPA01000018.1_fragment_3												VOG12624	REFSEQ hypothetical protein	1.5e-46	153.7	0.32
+NIPA01000018.1_fragment_3_316	NIPA01000018.1_fragment_3																
+NIPA01000018.1_fragment_3_317	NIPA01000018.1_fragment_3												VOG03007	REFSEQ hypothetical protein	3.1e-26	87.2	0.61
+NIPA01000018.1_fragment_3_318	NIPA01000018.1_fragment_3																
+NIPA01000018.1_fragment_3_319	NIPA01000018.1_fragment_3												VOG17429	REFSEQ hypothetical protein	3e-14	48.8	0.15
+NIPA01000018.1_fragment_3_320	NIPA01000018.1_fragment_3																
+NIPA01000018.1_fragment_3_321	NIPA01000018.1_fragment_3							PF04447.12	Protein of unknown function (DUF550)	1e-35	117.9	0.42	VOG00662	REFSEQ hypothetical protein	3.2e-60	199.9	1.38
+NIPA01000018.1_fragment_3_322	NIPA01000018.1_fragment_3																
+NIPA01000018.1_fragment_3_323	NIPA01000018.1_fragment_3	K00558	AMG	"DNMT1, dcm; DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]"	2.0000000000000002e-23	81.2	3.5						VOG23361	REFSEQ hypothetical protein	0.0	1118.8	0.25
+NIPA01000018.1_fragment_3_324	NIPA01000018.1_fragment_3																
+NIPA01000018.1_fragment_3_325	NIPA01000018.1_fragment_3	K03546		"sbcC, rad50; DNA repair protein SbcC/Rad50"	9.000000000000001e-23	79.1	3.31	PF13476.6	AAA domain	1.4e-13	47.9	1.11	VOG00461	REFSEQ hypothetical protein	6.8e-76	252.2	1.35
+NIPA01000018.1_fragment_3_326	NIPA01000018.1_fragment_3	K07455		recT; recombination protein RecT	2.6e-101	338.4	1.61	PF03837.14	RecT family	3.8000000000000003e-59	195.6	2.53	VOG10469	sp|P03698|VBET_LAMBD Recombination protein bet	4.5e-40	134.0	10.0
+NIPA01000018.1_fragment_3_327	NIPA01000018.1_fragment_3							PF09588.10	YqaJ-like viral recombinase domain	5.7e-18	61.6	0.93	VOG01132	sp|P03697|EXO_LAMBD Exonuclease	6.2e-40	132.6	4.77
+NIPA01000018.1_fragment_3_328	NIPA01000018.1_fragment_3																
+NIPA01000018.1_fragment_3_329	NIPA01000018.1_fragment_3												VOG12629	REFSEQ hypothetical protein	1.2e-48	158.8	0.25
+NIPA01000018.1_fragment_3_330	NIPA01000018.1_fragment_3												VOG12630	REFSEQ hypothetical protein	2.6e-36	119.9	0.25
+NIPA01000018.1_fragment_3_331	NIPA01000018.1_fragment_3	K03563		csrA; carbon storage regulator	3.8e-25	86.6	0.07	PF02599.16	Global regulator protein family	8.7e-27	89.0	0.07	VOG03742	sp|C4K832|CSRA_HAMD5 Translational regulator CsrA	3.5000000000000003e-71	233.0	0.47
+NIPA01000018.1_fragment_3_332	NIPA01000018.1_fragment_3												VOG03742	sp|C4K832|CSRA_HAMD5 Translational regulator CsrA	1.4e-14	50.1	0.47
+NIPA01000018.1_fragment_3_333	NIPA01000018.1_fragment_3																
+NIPA01000018.1_fragment_3_334	NIPA01000018.1_fragment_3							PF07867.11	Protein of unknown function (DUF1654)	2.3e-19	65.0	0.1	VOG04172	REFSEQ hypothetical protein	2.3999999999999999e-35	116.1	0.33
+NIPA01000018.1_fragment_3_335	NIPA01000018.1_fragment_3																
+NIPA01000018.1_fragment_3_336	NIPA01000018.1_fragment_3																
+NIPA01000018.1_fragment_3_337	NIPA01000018.1_fragment_3																
+NIPA01000018.1_fragment_3_338	NIPA01000018.1_fragment_3												VOG02771	sp|P03034|RPC1_LAMBD Repressor protein cI	2.1e-16	56.6	10.0
+NIPA01000018.1_fragment_3_339	NIPA01000018.1_fragment_3												VOG04154	REFSEQ hypothetical protein	1e-68	225.9	0.29
+NIPA01000018.1_fragment_3_340	NIPA01000018.1_fragment_3																
+NIPA01000018.1_fragment_3_341	NIPA01000018.1_fragment_3																
+NIPA01000018.1_fragment_3_342	NIPA01000018.1_fragment_3																
+NIPA01000018.1_fragment_3_343	NIPA01000018.1_fragment_3	K02314		dnaB; replicative DNA helicase [EC:3.6.4.12]	7.7e-142	472.2	5.15	PF03796.15	DnaB-like helicase C terminal domain	3.3e-91	301.3	5.28	VOG00557	sp|P04530|VG41_BPT4 ATP-dependent helicase 41	8.2e-74	245.4	10.0
+NIPA01000018.1_fragment_3_344	NIPA01000018.1_fragment_3							PF05866.11	Endodeoxyribonuclease RusA	2e-35	118.2	2.13	VOG00098	sp|Q9MCN8|RUSA_BPHK7 Crossover junction endodeoxyribonuclease rusA	3e-22	75.5	10.0
+NIPA01000018.1_fragment_3_345	NIPA01000018.1_fragment_3												VOG12633	REFSEQ hypothetical protein	2.2e-95	313.8	0.11
+NIPA01000018.1_fragment_3_346	NIPA01000018.1_fragment_3	K19158		yoeB; toxin YoeB [EC:3.1.-.-]	1e-37	127.8	0	PF06769.14	YoeB-like toxin of bacterial type II toxin-antitoxin system	5.8e-38	125.0	0					
+NIPA01000018.1_fragment_3_347	NIPA01000018.1_fragment_3	K19159		yefM; antitoxin YefM	2.9e-34	117.0	0	PF02604.19	"Antitoxin Phd_YefM, type II toxin-antitoxin system"	7.6e-22	73.1	0.08	VOG15205	REFSEQ hypothetical protein	4.3e-15	51.9	0.45
+NIPA01000018.1_fragment_3_348	NIPA01000018.1_fragment_3																
+NIPA01000018.1_fragment_3_349	NIPA01000018.1_fragment_3																
+NIPA01000018.1_fragment_3_350	NIPA01000018.1_fragment_3																
+NIPA01000018.1_fragment_3_351	NIPA01000018.1_fragment_3	K07474		xtmA; phage terminase small subunit	1.7e-48	164.4	2.24	PF03592.16	Terminase small subunit	1.0000000000000001e-34	116.2	2.02	VOG02869	sp|P68928|TERS_BPSF6 Terminase small subunit	4.8000000000000004e-30	101.4	6.92
+NIPA01000018.1_fragment_3_352	NIPA01000018.1_fragment_3							PF03237.15	Terminase-like family	1.2e-29	99.6	2.85	VOG00694	sp|O31952|YONF_BACSU SPBc2 prophage-derived uncharacterized protein YonF	9.4e-40	132.8	4.48
+NIPA01000018.1_fragment_3_353	NIPA01000018.1_fragment_3							PF13264.6	Domain of unknown function (DUF4055)	8.8e-39	128.9	1.17	VOG00213	sp|Q05220|PORTL_BPML5 Portal protein	2.8999999999999996e-55	183.7	10.0
+NIPA01000018.1_fragment_3_354	NIPA01000018.1_fragment_3												VOG00686	sp|Q38442|GP7_BPSPP Minor head protein GP7	1.0000000000000001e-49	166.0	9.5
+NIPA01000018.1_fragment_3_355	NIPA01000018.1_fragment_3																
+NIPA01000018.1_fragment_3_356	NIPA01000018.1_fragment_3												VOG02666	REFSEQ hypothetical protein	4.8e-94	310.3	0.43
+NIPA01000018.1_fragment_3_357	NIPA01000018.1_fragment_3												VOG03107	sp|Q38582|CAPSD_BPSPP Major capsid protein	1.5e-67	223.9	4.22
+NIPA01000018.1_fragment_3_358	NIPA01000018.1_fragment_3																
+NIPA01000018.1_fragment_3_359	NIPA01000018.1_fragment_3												VOG01154	REFSEQ hypothetical protein	9.4e-37	122.2	4.77
+NIPA01000018.1_fragment_3_360	NIPA01000018.1_fragment_3												VOG00089	REFSEQ hypothetical protein	2.9e-18	62.4	5.9
+NIPA01000018.1_fragment_3_361	NIPA01000018.1_fragment_3												VOG01487	REFSEQ hypothetical protein	2.3e-43	143.4	6.6
+NIPA01000018.1_fragment_3_362	NIPA01000018.1_fragment_3							PF13554.6	Bacteriophage related domain of unknown function	3.5e-30	100.8	1.01	VOG00290	REFSEQ hypothetical protein	3.1e-21	71.2	6.26
+NIPA01000018.1_fragment_3_363	NIPA01000018.1_fragment_3							PF08813.11	"Phage tail tube protein, TTP"	1.6000000000000002e-59	196.3	1.0	VOG02790	REFSEQ putative major tail protein	5.3999999999999996e-70	231.1	2.31
+NIPA01000018.1_fragment_3_364	NIPA01000018.1_fragment_3							PF08748.11	Phage tail assembly chaperone	6.499999999999999e-43	142.3	1.0	VOG01010	REFSEQ hypothetical protein	2.1e-23	78.5	2.4
+NIPA01000018.1_fragment_3_365	NIPA01000018.1_fragment_3							PF08809.11	Phage related hypothetical protein (DUF1799)	4.0000000000000004e-24	80.8	1.0	VOG02443	REFSEQ hypothetical protein	4.2e-23	77.4	2.43
+NIPA01000018.1_fragment_3_366	NIPA01000018.1_fragment_3							PF06791.13	Prophage tail length tape measure protein	4.2000000000000005e-44	146.8	1.0	VOG02360	REFSEQ tail tape measure protein	1.3e-82	274.2	1.0
+NIPA01000018.1_fragment_3_367	NIPA01000018.1_fragment_3							PF05939.13	Phage minor tail protein	1.2e-33	111.9	1.18	VOG01889	sp|O64331|TIPM_BPN15 Tail tip protein M	2.4999999999999998e-31	104.3	4.25
+NIPA01000018.1_fragment_3_368	NIPA01000018.1_fragment_3							PF05100.12	Phage minor tail protein L	2.2e-72	238.8	1.09	VOG00644	sp|O64332|TIPL_BPN15 Tail tip protein L	5.6e-91	299.8	4.48
+NIPA01000018.1_fragment_3_369	NIPA01000018.1_fragment_3	K21140	AMG	mec; [CysO sulfur-carrier protein]-S-L-cysteine hydrolase [EC:3.13.1.6]	5.5e-20	70.3	0.89	PF14464.6	Prokaryotic homologs of the JAB domain	1.1e-18	63.3	0.27	VOG01039	sp|O64333|TIPK_BPN15 Tail tip assembly protein K	1.5e-67	224.5	4.6
+NIPA01000018.1_fragment_3_370	NIPA01000018.1_fragment_3																
+NIPA01000018.1_fragment_3_371	NIPA01000018.1_fragment_3																
+NIPA01000018.1_fragment_3_372	NIPA01000018.1_fragment_3												VOG22826	REFSEQ hypothetical protein	3.7000000000000003e-34	111.9	0.05
+NIPA01000018.1_fragment_3_373	NIPA01000018.1_fragment_3																
+NIPA01000018.1_fragment_3_374	NIPA01000018.1_fragment_3																
+NIPA01000018.1_fragment_3_375	NIPA01000018.1_fragment_3																
+NIPA01000018.1_fragment_3_376	NIPA01000018.1_fragment_3												VOG02435	sp|O64334|TIPI_BPN15 Tail tip assembly protein I	4.9e-64	211.3	4.29
+NIPA01000018.1_fragment_3_377	NIPA01000018.1_fragment_3							PF09327.11	Domain of unknown function (DUF1983)	4.399999999999999e-24	80.6	0.77	VOG00125	sp|Q6QGE9|BPPB3_BPT5 Probable baseplate hub protein	0.0	1178.7	8.23
+NIPA01000018.1_fragment_3_378	NIPA01000018.1_fragment_3												VOG14958	REFSEQ hypothetical protein	7.4e-112	368.0	0.6
+NIPA01000018.1_fragment_3_379	NIPA01000018.1_fragment_3												VOG01433	REFSEQ hypothetical protein	2.2e-81	269.7	0.54
+NIPA01000018.1_fragment_3_380	NIPA01000018.1_fragment_3												VOG13921	REFSEQ hypothetical protein	2.2e-49	162.2	0.83
+NIPA01000018.1_fragment_3_381	NIPA01000018.1_fragment_3	K01793	AMG	GLCE; heparosan-N-sulfate-glucuronate 5-epimerase [EC:5.1.3.17]	1e-12	46.1	0.01	PF06662.13	D-glucuronyl C5-epimerase C-terminus	9.3e-20	67.0	0.01					
+NIPA01000018.1_fragment_3_382	NIPA01000018.1_fragment_3	K03791		K03791; putative chitinase	4e-73	245.1	2.36						VOG23339	REFSEQ gp5 baseplate hub subunit and tail lysozyme	7.3e-51	169.3	2.48
+NIPA01000018.1_fragment_3_383	NIPA01000018.1_fragment_3												VOG12636	REFSEQ hypothetical protein	2.6000000000000003e-71	233.7	0.36
+NIPA01000018.1_fragment_3_384	NIPA01000018.1_fragment_3												VOG12637	REFSEQ hypothetical protein	9.2e-54	175.6	0.36
+NIPA01000018.1_fragment_3_385	NIPA01000018.1_fragment_3												VOG12638	REFSEQ hypothetical protein	1.1e-48	159.3	0.59
+NIPA01000022.1_fragment_1_2	NIPA01000022.1_fragment_1							PF06530.12	Phage antitermination protein Q	6.3e-16	54.5	1.0	VOG00605	sp|O48429|REGQ_BPH19 Antitermination protein Q	1.4e-15	53.1	2.38
+NIPA01000022.1_fragment_1_3	NIPA01000022.1_fragment_1																
+NIPA01000022.1_fragment_1_4	NIPA01000022.1_fragment_1	K02314		dnaB; replicative DNA helicase [EC:3.6.4.12]	2.2000000000000002e-110	368.4	5.15	PF03796.15	DnaB-like helicase C terminal domain	2e-70	233.1	5.28	VOG00557	sp|P04530|VG41_BPT4 ATP-dependent helicase 41	7.7e-64	212.5	10.0
+NIPA01000022.1_fragment_1_5	NIPA01000022.1_fragment_1	K02315		dnaC; DNA replication protein DnaC	2.8e-56	190.0	2.36	PF01695.17	IstB-like ATP binding protein	4.4e-17	58.5	1.65	VOG01901	sp|P0AEF0|DNAC_ECOLI DNA replication protein DnaC	1.1e-55	184.7	9.05
+NIPA01000022.1_fragment_1_6	NIPA01000022.1_fragment_1												VOG00100	REFSEQ hypothetical protein	2.9e-20	69.3	1.68
+NIPA01000022.1_fragment_1_7	NIPA01000022.1_fragment_1																
+NIPA01000022.1_fragment_1_8	NIPA01000022.1_fragment_1							PF09669.10	Phage regulatory protein Rha (Phage_pRha)	3.1e-15	52.7	1.83	VOG00572	sp|P19655|ANT_BPP1 Antirepressor protein 1	6.8e-67	221.7	6.13
+NIPA01000022.1_fragment_1_9	NIPA01000022.1_fragment_1																
+NIPA01000022.1_fragment_1_10	NIPA01000022.1_fragment_1																
+NIPA01000022.1_fragment_1_11	NIPA01000022.1_fragment_1																
+NIPA01000022.1_fragment_1_12	NIPA01000022.1_fragment_1																
+NIPA01000022.1_fragment_1_13	NIPA01000022.1_fragment_1																
+NIPA01000022.1_fragment_1_14	NIPA01000022.1_fragment_1	K22300		"dicA; HTH-type transcriptional regulator, cell division transcriptional repressor"	8.5e-14	50.2	2.08	PF13560.6	Helix-turn-helix domain	1.2e-12	44.2	0.21	VOG02771	sp|P03034|RPC1_LAMBD Repressor protein cI	1.2e-16	57.4	10.0
+NIPA01000022.1_fragment_1_15	NIPA01000022.1_fragment_1	K18098		"bjaR1, rpaR, rhiR; LuxR family transcriptional regulator, quorum-sensing system regulator BjaR1"	7e-14	50.2	0.06						VOG00996	REFSEQ hypothetical protein	1.1e-32	108.7	0.85
+NIPA01000022.1_fragment_1_16	NIPA01000022.1_fragment_1																
+NIPA01000022.1_fragment_1_17	NIPA01000022.1_fragment_1																
+NIPA01000022.1_fragment_1_18	NIPA01000022.1_fragment_1	K04087		hflC; membrane protease subunit HflC [EC:3.4.-.-]	1.5e-11	42.5	0.75	PF01145.25	SPFH domain / Band 7 family	6.2e-23	77.8	1.29	VOG01564	REFSEQ hypothetical protein	5.000000000000001e-75	248.5	7.59
+NIPA01000022.1_fragment_1_19	NIPA01000022.1_fragment_1							PF03869.14	Arc-like DNA binding domain	9.8e-12	40.7	0.27	VOG00170	sp|P03049|RMNT_BPP22 Regulatory protein mnt	1.3e-18	63.1	2.47
+NIPA01000022.1_fragment_1_20	NIPA01000022.1_fragment_1												VOG12650	REFSEQ hypothetical protein	1.6e-51	169.0	0.43
+NIPA01000022.1_fragment_1_21	NIPA01000022.1_fragment_1												VOG20564	REFSEQ hypothetical protein	4.3e-22	74.5	0.2
+NIPA01000022.1_fragment_1_22	NIPA01000022.1_fragment_1																
+NIPA01000022.1_fragment_1_23	NIPA01000022.1_fragment_1																
+NIPA01000022.1_fragment_1_24	NIPA01000022.1_fragment_1																
+NIPA01000022.1_fragment_1_25	NIPA01000022.1_fragment_1																
+NIPA01000022.1_fragment_1_26	NIPA01000022.1_fragment_1																
+NIPA01000022.1_fragment_1_27	NIPA01000022.1_fragment_1																
+NIPA01000022.1_fragment_1_28	NIPA01000022.1_fragment_1																
+NIPA01000022.1_fragment_1_29	NIPA01000022.1_fragment_1																
+NIPA01000022.1_fragment_1_30	NIPA01000022.1_fragment_1												VOG21208	REFSEQ hypothetical protein	1.4e-20	69.4	0.1
+NIPA01000022.1_fragment_1_31	NIPA01000022.1_fragment_1																
+NIPA01000022.1_fragment_1_32	NIPA01000022.1_fragment_1	K04763		xerD; integrase/recombinase XerD	6.3e-23	80.5	2.87	PF00589.22	Phage integrase family	4.4e-19	65.0	9.33	VOG00041	sp|O10330|VLF1_NPVOP Very late expression factor 1	2.9e-39	131.3	10.0
+NIPA01000039.1_fragment_1_1	NIPA01000039.1_fragment_1												VOG12651	REFSEQ hypothetical protein	1.8e-30	101.9	0.44
+NIPA01000039.1_fragment_1_2	NIPA01000039.1_fragment_1							PF05766.12	Bacteriophage Lambda NinG protein	1.2e-78	259.4	1.0	VOG02687	sp|P69175|NING_BPVT2 Protein ninG	8.2e-77	253.3	3.33
+NIPA01000039.1_fragment_1_3	NIPA01000039.1_fragment_1																
+NIPA01000039.1_fragment_1_4	NIPA01000039.1_fragment_1												VOG04699	REFSEQ hypothetical protein	3.7e-52	173.3	0.45
+NIPA01000039.1_fragment_1_5	NIPA01000039.1_fragment_1																
+NIPA01000039.1_fragment_1_6	NIPA01000039.1_fragment_1	K07741		antB; anti-repressor protein	5.6e-11	41.4	2.25	PF03374.14	Phage antirepressor protein KilAC domain	4.1e-28	94.0	2.71	VOG00572	sp|P19655|ANT_BPP1 Antirepressor protein 1	5.3e-27	90.7	6.13
+NIPA01000039.1_fragment_1_7	NIPA01000039.1_fragment_1	K01356		lexA; repressor LexA [EC:3.4.21.88]	8.6e-13	46.9	2.88						VOG02771	sp|P03034|RPC1_LAMBD Repressor protein cI	5e-17	58.6	10.0
+NIPA01000039.1_fragment_1_8	NIPA01000039.1_fragment_1	K07504		K07504; predicted type IV restriction endonuclease	4.8e-151	502.8	0.03										
+NIPA01000039.1_fragment_1_9	NIPA01000039.1_fragment_1												VOG17229	REFSEQ hypothetical protein	9.9e-99	325.6	0.13
+NIPA01000039.1_fragment_1_10	NIPA01000039.1_fragment_1	K03497		"parB, spo0J; ParB family transcriptional regulator, chromosome partitioning protein"	5.2e-21	74.2	1.4						VOG01110	REFSEQ hypothetical protein	8.4e-83	273.9	1.42
+NIPA01000039.1_fragment_1_11	NIPA01000039.1_fragment_1	K18098		"bjaR1, rpaR, rhiR; LuxR family transcriptional regulator, quorum-sensing system regulator BjaR1"	1.2e-13	49.4	0.06						VOG00996	REFSEQ hypothetical protein	3.3e-38	126.6	0.85
+NIPA01000039.1_fragment_1_12	NIPA01000039.1_fragment_1												VOG21746	REFSEQ hypothetical protein	9.999999999999999e-51	165.5	0.1
+NIPA01000039.1_fragment_1_13	NIPA01000039.1_fragment_1	K02338		dnaN; DNA polymerase III subunit beta [EC:2.7.7.7]	1.3e-11	42.9	1.06						VOG01967	REFSEQ hypothetical protein	1.5000000000000002e-22	76.2	1.22
+NIPA01000039.1_fragment_1_14	NIPA01000039.1_fragment_1												VOG21745	REFSEQ hypothetical protein	1.1e-66	217.2	0.06
+NIPA01000039.1_fragment_1_15	NIPA01000039.1_fragment_1																
+NIPA01000039.1_fragment_1_16	NIPA01000039.1_fragment_1							PF14359.6	Domain of unknown function (DUF4406)	5.8000000000000005e-30	99.8	0.86	VOG01808	REFSEQ hypothetical protein	1e-43	144.8	4.46
+NIPA01000039.1_fragment_1_17	NIPA01000039.1_fragment_1																
+NIPA01000039.1_fragment_1_18	NIPA01000039.1_fragment_1												VOG11350	REFSEQ hypothetical protein	1.3999999999999999e-63	210.7	0.87
+NIPA01000039.1_fragment_1_19	NIPA01000039.1_fragment_1	K00558	AMG	"DNMT1, dcm; DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]"	1.6e-19	68.3	3.5	PF00145.17	C-5 cytosine-specific DNA methylase	4.9e-15	51.8	3.75	VOG01885	sp|P34877|MTSA_LACLC Modification methylase ScrFIA	2.7000000000000002e-30	101.6	10.0
+NIPA01000039.1_fragment_1_20	NIPA01000039.1_fragment_1												VOG04465	REFSEQ hypothetical protein	6.699999999999999e-46	150.6	0.27
+NIPA01000039.1_fragment_1_21	NIPA01000039.1_fragment_1												VOG19808	REFSEQ hypothetical protein	2.8e-43	141.6	0.19
+NIPA01000039.1_fragment_1_22	NIPA01000039.1_fragment_1												VOG00408	REFSEQ hypothetical protein	1.9999999999999998e-86	287.3	0.73
+NIPA01000039.1_fragment_1_23	NIPA01000039.1_fragment_1												VOG12645	REFSEQ hypothetical protein	7.9e-36	119.4	0.42
+NIPA01000039.1_fragment_1_24	NIPA01000039.1_fragment_1												VOG03106	REFSEQ hypothetical protein	3.3e-22	74.9	0.67
+NIPA01000039.1_fragment_1_25	NIPA01000039.1_fragment_1												VOG12644	REFSEQ hypothetical protein	1.1e-66	217.2	0.16
+NIPA01000039.1_fragment_1_26	NIPA01000039.1_fragment_1	K14059		int; integrase	7.899999999999999e-99	330.3	7.0	PF00589.22	Phage integrase family	4e-20	68.4	9.33	VOG00041	sp|O10330|VLF1_NPVOP Very late expression factor 1	2.1000000000000002e-58	194.2	10.0
+NIPA01000040.1_fragment_4_231	NIPA01000040.1_fragment_4												VOG12638	REFSEQ hypothetical protein	1.9e-52	171.4	0.59
+NIPA01000040.1_fragment_4_232	NIPA01000040.1_fragment_4																
+NIPA01000040.1_fragment_4_233	NIPA01000040.1_fragment_4												VOG12637	REFSEQ hypothetical protein	6.9e-54	176.0	0.36
+NIPA01000040.1_fragment_4_234	NIPA01000040.1_fragment_4												VOG12636	REFSEQ hypothetical protein	5.899999999999999e-69	226.1	0.36
+NIPA01000040.1_fragment_4_235	NIPA01000040.1_fragment_4	K01185		E3.2.1.17; lysozyme [EC:3.2.1.17]	8.8e-63	211.5	4.48	PF00959.19	Phage lysozyme	2.5e-25	85.2	3.03	VOG00308	sp|P16009|BP5_BPT4 Baseplate central spike complex protein gp5	1.1e-55	185.5	10.0
+NIPA01000040.1_fragment_4_236	NIPA01000040.1_fragment_4																
+NIPA01000040.1_fragment_4_237	NIPA01000040.1_fragment_4							PF08797.11	HIRAN domain	2.2e-13	46.1	0.05					
+NIPA01000040.1_fragment_4_238	NIPA01000040.1_fragment_4							PF02498.17	"BRO family, N-terminal domain"	2e-27	91.8	1.68	VOG00015	sp|Q9YML3|BROJ_NPVLD Uncharacterized Bro-N domain-containing protein J	9.500000000000001e-30	100.1	2.42
+NIPA01000040.1_fragment_4_239	NIPA01000040.1_fragment_4	K07726		K07726; putative transcriptional regulator	8.7e-15	53.3	0.01										
+NIPA01000040.1_fragment_4_240	NIPA01000040.1_fragment_4	K07726		K07726; putative transcriptional regulator	7.1e-23	79.9	0.01	PF01381.22	Helix-turn-helix	1.9e-11	40.0	5.99					
+NIPA01000040.1_fragment_4_241	NIPA01000040.1_fragment_4												VOG04859	REFSEQ hypothetical protein	7.4e-28	93.0	0.35
+NIPA01000040.1_fragment_4_242	NIPA01000040.1_fragment_4												VOG00685	REFSEQ hypothetical protein	1.2e-183	608.7	4.03
+NIPA01000040.1_fragment_4_243	NIPA01000040.1_fragment_4												VOG00189	REFSEQ hypothetical protein	5.300000000000001e-22	74.0	4.04
+NIPA01000040.1_fragment_4_244	NIPA01000040.1_fragment_4							PF08875.11	Domain of unknown function (DUF1833)	1.7000000000000003e-28	95.2	0.31	VOG01017	REFSEQ hypothetical protein	7.8e-48	158.2	3.58
+NIPA01000040.1_fragment_4_245	NIPA01000040.1_fragment_4												VOG00407	REFSEQ hypothetical protein	5.599999999999999e-29	97.6	1.89
+NIPA01000040.1_fragment_4_246	NIPA01000040.1_fragment_4												VOG04214	sp|Q38305|TMP_BPLC2 Probable tape measure protein	4.3e-31	104.2	2.4
+NIPA01000040.1_fragment_4_247	NIPA01000040.1_fragment_4												VOG10111	REFSEQ hypothetical protein	6.6e-65	214.4	0.95
+NIPA01000040.1_fragment_4_248	NIPA01000040.1_fragment_4							PF02368.18	Bacterial Ig-like domain (group 2)	1.7e-25	84.9	1.22	VOG00186	sp|Q6QGE2|TUBE_BPT5 Tail tube protein	2.9e-26	88.3	3.82
+NIPA01000040.1_fragment_4_249	NIPA01000040.1_fragment_4												VOG01390	REFSEQ hypothetical protein	4.8e-36	119.7	0.95
+NIPA01000040.1_fragment_4_250	NIPA01000040.1_fragment_4												VOG00217	REFSEQ hypothetical protein	1.2e-37	124.6	1.88
+NIPA01000040.1_fragment_4_251	NIPA01000040.1_fragment_4												VOG02620	REFSEQ hypothetical protein	2.1e-42	140.1	0.94
+NIPA01000040.1_fragment_4_252	NIPA01000040.1_fragment_4							PF01541.24	GIY-YIG catalytic domain	1.5e-14	50.2	0.21	VOG00223	sp|O55751|146R_IIV6 Putative MSV199 domain-containing protein 146R	2.3e-17	59.5	1.41
+NIPA01000040.1_fragment_4_253	NIPA01000040.1_fragment_4												VOG10109	REFSEQ hypothetical protein	3.3999999999999995e-53	175.0	0.89
+NIPA01000040.1_fragment_4_254	NIPA01000040.1_fragment_4												VOG00793	sp|A0A0U5AF03|CAPSD_BPK22 Major capsid protein	4.1000000000000003e-81	268.4	5.51
+NIPA01000040.1_fragment_4_255	NIPA01000040.1_fragment_4												VOG10108	REFSEQ hypothetical protein	1.8e-53	176.2	0.98
+NIPA01000040.1_fragment_4_256	NIPA01000040.1_fragment_4																
+NIPA01000040.1_fragment_4_257	NIPA01000040.1_fragment_4							PF04233.14	Phage Mu protein F like protein	4.2e-14	49.4	2.29	VOG01747	REFSEQ hypothetical protein	2.2000000000000001e-100	331.8	1.1
+NIPA01000040.1_fragment_4_258	NIPA01000040.1_fragment_4	K09961		K09961; uncharacterized protein	5.0999999999999996e-83	278.1	1.49	PF06381.11	Protein of unknown function (DUF1073)	4.6e-18	61.2	1.45	VOG02778	sp|P44183|Y1409_HAEIN Uncharacterized protein HI_1409	5.7e-82	271.3	5.63
+NIPA01000040.1_fragment_4_259	NIPA01000040.1_fragment_4												VOG12634	REFSEQ hypothetical protein	1.2e-50	165.0	0.24
+NIPA01000040.1_fragment_4_260	NIPA01000040.1_fragment_4							PF17289.2	Terminase RNaseH-like domain	2.6e-12	43.2	1.17	VOG00677	"sp|P10310|TERL_BPT3 Terminase, large subunit gp19"	1.6e-79	263.6	10.0
+NIPA01000040.1_fragment_4_261	NIPA01000040.1_fragment_4	K07474		xtmA; phage terminase small subunit	3.9000000000000004e-28	97.8	2.24	PF03592.16	Terminase small subunit	9.6e-22	74.1	2.02	VOG02869	sp|P68928|TERS_BPSF6 Terminase small subunit	6.6e-25	84.7	6.92
+NIPA01000040.1_fragment_4_262	NIPA01000040.1_fragment_4																
+NIPA01000040.1_fragment_4_263	NIPA01000040.1_fragment_4																
+NIPA01000040.1_fragment_4_264	NIPA01000040.1_fragment_4																
+NIPA01000040.1_fragment_4_265	NIPA01000040.1_fragment_4												VOG12633	REFSEQ hypothetical protein	2.8999999999999997e-84	277.5	0.11
+NIPA01000040.1_fragment_4_266	NIPA01000040.1_fragment_4							PF05766.12	Bacteriophage Lambda NinG protein	1.3e-45	151.7	1.0	VOG02687	sp|P69175|NING_BPVT2 Protein ninG	8.6e-65	214.0	3.33
+NIPA01000040.1_fragment_4_267	NIPA01000040.1_fragment_4																
+NIPA01000040.1_fragment_4_268	NIPA01000040.1_fragment_4												VOG01140	REFSEQ hypothetical protein	2.4e-18	62.1	0.52
+NIPA01000040.1_fragment_4_269	NIPA01000040.1_fragment_4												VOG01507	sp|P03765|NINB_LAMBD Protein ninB	7.7e-27	90.0	3.4
+NIPA01000040.1_fragment_4_270	NIPA01000040.1_fragment_4												VOG16834	REFSEQ hypothetical protein	3.8e-52	169.9	0.2
+NIPA01000040.1_fragment_4_271	NIPA01000040.1_fragment_4							PF13392.6	HNH endonuclease	2.5e-13	45.7	7.58	VOG00013	sp|P03795|Y28_BPT7 Protein 2.8	2e-22	76.0	10.0
+NIPA01000040.1_fragment_4_272	NIPA01000040.1_fragment_4	K02314		dnaB; replicative DNA helicase [EC:3.6.4.12]	7.1e-131	436.0	5.15	PF03796.15	DnaB-like helicase C terminal domain	5.7e-87	287.4	5.28	VOG00557	sp|P04530|VG41_BPT4 ATP-dependent helicase 41	1.1e-73	245.0	10.0
+NIPA01000086.1_fragment_6_431	NIPA01000086.1_fragment_6	K06167	AMG	"phnP; phosphoribosyl 1,2-cyclic phosphate phosphodiesterase [EC:3.1.4.55]"	1.4999999999999998e-24	85.2	0.46	PF12706.7	Beta-lactamase superfamily domain	3.1999999999999998e-24	81.7	0.24	VOG01036	sp|C0SP91|YYCJ_BACSU Putative metallo-hydrolase YycJ	6.5e-28	93.9	3.45
+NIPA01000086.1_fragment_6_432	NIPA01000086.1_fragment_6	K01923	AMG	purC; phosphoribosylaminoimidazole-succinocarboxamide synthase [EC:6.3.2.6]	8.4e-64	214.7	0.14	PF01259.18	SAICAR synthetase	3.7e-66	219.4	0.12	VOG11815	sp|Q7V0C7|PUR7_PROMP Phosphoribosylaminoimidazole-succinocarboxamide synthase	2.2e-48	160.6	1.65
+NIPA01000086.1_fragment_6_433	NIPA01000086.1_fragment_6	K04763		xerD; integrase/recombinase XerD	1.2e-31	109.2	2.87	PF00589.22	Phage integrase family	7.7e-24	80.5	9.33	VOG00041	sp|O10330|VLF1_NPVOP Very late expression factor 1	9.300000000000001e-44	146.1	10.0
+NIPA01000086.1_fragment_6_434	NIPA01000086.1_fragment_6												VOG21739	REFSEQ hypothetical protein	7.100000000000001e-57	185.1	0.17
+NIPA01000086.1_fragment_6_435	NIPA01000086.1_fragment_6																
+NIPA01000086.1_fragment_6_436	NIPA01000086.1_fragment_6												VOG12641	REFSEQ hypothetical protein	5.4e-42	137.3	0.1
+NIPA01000086.1_fragment_6_437	NIPA01000086.1_fragment_6												VOG12643	REFSEQ hypothetical protein	3.4000000000000005e-28	92.9	0.38
+NIPA01000086.1_fragment_6_438	NIPA01000086.1_fragment_6												VOG12644	REFSEQ hypothetical protein	1.4999999999999999e-61	200.7	0.16
+NIPA01000027.1_fragment_1_22	NIPA01000027.1_fragment_1												VOG13921	REFSEQ hypothetical protein	3.2e-32	106.8	0.83
+NIPA01000027.1_fragment_1_23	NIPA01000027.1_fragment_1												VOG01432	REFSEQ hypothetical protein	4.9e-63	209.3	0.49
+NIPA01000027.1_fragment_1_24	NIPA01000027.1_fragment_1												VOG00573	REFSEQ hypothetical protein	3.9e-12	42.4	0.35
+NIPA01000027.1_fragment_1_25	NIPA01000027.1_fragment_1							PF13550.6	Putative phage tail protein	3.5e-27	91.4	1.24	VOG00125	sp|Q6QGE9|BPPB3_BPT5 Probable baseplate hub protein	0.0	1166.6	8.23
+NIPA01000027.1_fragment_1_26	NIPA01000027.1_fragment_1												VOG02435	sp|O64334|TIPI_BPN15 Tail tip assembly protein I	4.8e-60	198.3	4.29
+NIPA01000027.1_fragment_1_27	NIPA01000027.1_fragment_1	K21140	AMG	mec; [CysO sulfur-carrier protein]-S-L-cysteine hydrolase [EC:3.13.1.6]	1.6e-21	75.3	0.89	PF00877.19	NlpC/P60 family	3.8e-21	71.2	1.39	VOG01039	sp|O64333|TIPK_BPN15 Tail tip assembly protein K	1.6999999999999999e-68	227.6	4.6
+NIPA01000027.1_fragment_1_28	NIPA01000027.1_fragment_1							PF05100.12	Phage minor tail protein L	6.8e-98	322.1	1.09	VOG00644	sp|O64332|TIPL_BPN15 Tail tip protein L	1.3e-88	292.0	4.48
+NIPA01000027.1_fragment_1_29	NIPA01000027.1_fragment_1							PF05939.13	Phage minor tail protein	5e-33	109.9	1.18	VOG01889	sp|O64331|TIPM_BPN15 Tail tip protein M	5.9e-25	83.7	4.25
+NIPA01000027.1_fragment_1_30	NIPA01000027.1_fragment_1							PF09718.10	Lambda phage tail tape-measure protein (Tape_meas_lam_C)	1.7999999999999997e-55	181.2	1.0	VOG02360	REFSEQ tail tape measure protein	8.1e-17	56.5	1.0
+NIPA01000027.1_fragment_1_31	NIPA01000027.1_fragment_1												VOG03980	REFSEQ hypothetical protein	4.2e-18	61.5	0.17
+NIPA01000027.1_fragment_1_32	NIPA01000027.1_fragment_1							PF16459.5	"Phage tail assembly chaperone, TAC"	1e-22	76.6	1.0					
+NIPA01000027.1_fragment_1_33	NIPA01000027.1_fragment_1							PF16460.5	"Phage tail tube, TTP, lambda-like"	4.8e-85	278.5	1.0	VOG00359	sp|P85503|STRU3_BPPAJ Structural protein 3	1.8e-34	115.0	2.24
+NIPA01000027.1_fragment_1_34	NIPA01000027.1_fragment_1												VOG12637	REFSEQ hypothetical protein	3.3999999999999997e-31	103.2	0.36
+NIPA01000027.1_fragment_1_35	NIPA01000027.1_fragment_1												VOG12636	REFSEQ hypothetical protein	2.8000000000000002e-30	101.3	0.36
+NIPA01000027.1_fragment_1_36	NIPA01000027.1_fragment_1	K03791		K03791; putative chitinase	7.800000000000001e-67	224.5	2.36						VOG23339	REFSEQ gp5 baseplate hub subunit and tail lysozyme	1.5e-46	155.1	2.48
+NIPA01000027.1_fragment_1_37	NIPA01000027.1_fragment_1	K06905		K06905; uncharacterized protein	3.2e-101	338.0	0.73	PF05954.11	Phage late control gene D protein (GPD)	3.4e-23	78.5	1.0	VOG00534	sp|P10312|BPD_BPP2 Probable baseplate hub protein	1.1e-50	168.4	3.45
+NIPA01000027.1_fragment_1_38	NIPA01000027.1_fragment_1							PF05489.12	Phage Tail Protein X	4.5e-27	89.7	1.0					
+NIPA01000027.1_fragment_1_39	NIPA01000027.1_fragment_1	K06906		K06906; uncharacterized protein	1.6e-45	153.5	0.61	PF06995.11	Phage P2 GpU	4.9e-41	135.3	1.0	VOG02176	sp|B0ZSH1|TMP_BPHA1 Probable tape measure protein	2.0000000000000002e-28	95.6	1.6
+NIPA01000027.1_fragment_1_40	NIPA01000027.1_fragment_1																
+NIPA01000027.1_fragment_1_41	NIPA01000027.1_fragment_1																
+NIPA01000027.1_fragment_1_42	NIPA01000027.1_fragment_1							PF10109.9	"Phage tail assembly chaperone proteins, E, or 41 or 14"	2.6e-19	65.3	1.0	VOG15615	REFSEQ hypothetical protein	4.6e-19	64.5	0.19
+NIPA01000027.1_fragment_1_43	NIPA01000027.1_fragment_1	K06908		K06908; uncharacterized protein	1.9e-50	170.5	0.62	PF04985.14	Phage tail tube protein FII	4.7000000000000005e-60	198.2	1.0	VOG10266	sp|P22502|TUBE_BPP2 Tail tube protein	1.5999999999999998e-53	176.6	1.64
+NIPA01000027.1_fragment_1_44	NIPA01000027.1_fragment_1	K06907		K06907; uncharacterized protein	4.799999999999999e-75	252.1	2.77	PF04984.14	Phage tail sheath protein subtilisin-like domain	2.2e-34	114.9	2.17	VOG00295	sp|P13332|TSP_BPT4 Tail sheath protein	2.6e-45	150.9	10.0
+NIPA01000027.1_fragment_1_45	NIPA01000027.1_fragment_1							PF12571.8	Phage tail-collar fibre protein	6.5e-48	158.7	1.0	VOG02701	REFSEQ putative tail fibers protein	3.6e-48	160.2	1.42
+NIPA01000027.1_fragment_1_46	NIPA01000027.1_fragment_1							PF09684.10	Phage tail protein (Tail_P2_I)	3.2999999999999998e-43	143.0	1.0	VOG01944	sp|P26701|BPI_BPP2 Baseplate protein I	3e-53	175.9	1.87
+NIPA01000027.1_fragment_1_47	NIPA01000027.1_fragment_1							PF04865.14	Baseplate J-like protein	1.2e-24	83.0	2.88	VOG00243	sp|P51767|BPJ_BPP2 Baseplate protein J	2.4e-31	104.8	10.0
+NIPA01000027.1_fragment_1_48	NIPA01000027.1_fragment_1	K06903		K06903; uncharacterized protein	2.2e-32	110.9	1.86	PF04965.14	Gene 25-like lysozyme	3.8e-17	58.0	1.37	VOG00326	sp|P09425|BP25_BPT4 Baseplate wedge protein gp25	4.4e-18	61.5	10.0
+NIPA01000027.1_fragment_1_49	NIPA01000027.1_fragment_1							PF04717.12	"Type VI secretion system, phage-baseplate injector"	3.8999999999999995e-46	151.7	1.0	VOG00751	sp|P31340|SPIKE_BPP2 Spike protein	1.1e-22	76.9	9.01
+NIPA01000027.1_fragment_1_50	NIPA01000027.1_fragment_1																
+NIPA01000027.1_fragment_1_51	NIPA01000027.1_fragment_1							PF16085.5	"Bacteriophage holin Hol, superfamily III"	2.2e-64	210.8	1.0					
+NIPA01000027.1_fragment_1_52	NIPA01000027.1_fragment_1																
+NIPA01000027.1_fragment_1_53	NIPA01000027.1_fragment_1							PF01258.17	Prokaryotic dksA/traR C4-type zinc finger	7e-15	50.9	0.14	VOG00389	sp|P41039|YBII_ECOLI Uncharacterized protein YbiI	2e-19	65.4	4.5
+NIPA01000027.1_fragment_1_54	NIPA01000027.1_fragment_1																
+NIPA01000027.1_fragment_1_55	NIPA01000027.1_fragment_1	K22300		"dicA; HTH-type transcriptional regulator, cell division transcriptional repressor"	4.4e-14	51.1	2.08	PF01381.22	Helix-turn-helix	1.2e-12	43.9	5.99	VOG02771	sp|P03034|RPC1_LAMBD Repressor protein cI	2.6e-25	85.5	10.0

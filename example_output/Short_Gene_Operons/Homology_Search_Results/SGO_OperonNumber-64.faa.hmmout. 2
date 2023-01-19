@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AOPF_174_HMM         -            166 NIPA01000102.1_227   -            161   3.1e-07   27.9   0.0   1   1   3.9e-10   4.2e-07   27.5   0.0    55   164    53   158    43   160 0.85 -
+AOPF_1320_HMM        -            149 NIPA01000102.1_227   -            161   1.3e-05   22.9   0.0   1   1   1.7e-08   1.8e-05   22.4   0.0    38   142    38   137    28   143 0.92 -
+AOPF_1685_HMM        -            151 NIPA01000102.1_227   -            161   6.8e-05   20.2   0.0   1   1   7.7e-08   8.3e-05   19.9   0.0    47   126    58   134    23   141 0.86 -
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      AOminer_Output/Short_Gene_Operons/SGO_OperonNumber-64.faa
+# Target file:     dbPFhmm/TrainPresent_AOPF_nonAOPF_HMMs_ERROR_CORRECT.hmm
+# Option settings: hmmscan -o log.hmm --domtblout AOminer_Output/Short_Gene_Operons/Homology_Search_Results/SGO_OperonNumber-64.faa.hmmout. --noali -E 1e-3 --cpu 1 dbPFhmm/TrainPresent_AOPF_nonAOPF_HMMs_ERROR_CORRECT.hmm AOminer_Output/Short_Gene_Operons/SGO_OperonNumber-64.faa 
+# Current dir:     /mnt/raid5-2/boweny/AOminer/AOminer_V2
+# Date:            Mon Nov 21 14:05:03 2022
+# [ok]

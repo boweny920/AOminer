@@ -1,0 +1,28 @@
+Command:  /home/yangbowen/anaconda3/bin/VIBRANT_run.py -i AOminer_Output/GCA_002194095.1_ASM219409v1_genomic.fna.prodigalOUT/GCA_002194095.1_ASM219409v1_genomic.fna -folder AOminer_Output -t 1 -no_plot
+Date:     2022-11-21
+Start:    14:07:31
+End:      14:24:46
+Runtime:  17.3 minutes
+Program:  VIBRANT v1.2.0
+
+
+118 scaffolds were read in.
+79 scaffolds met minimum requirements: at least 1000bp and 4 ORFs.
+14 putative phages were identified.
+
+
+CAUTION: running a version of Scikit-Learn higher than v0.21.3 may cause issues. With pip you can update by running "pip install --upgrade scikit-learn==0.21.3".
+                                                               ##
+                                                             ##  ##
+                                                           ##      ##
+######   ##  ##     ##     #######   ######    #####       ##      ##
+##  ##   ##  ##   ##  ##   ##        ##       ##             ##  ##
+######   ######   ######   ##  ###   ######    ###             ##
+##       ##  ##   ##  ##   ##   ##   ##           ##           ##
+##       ##  ##   ##  ##   #######   ######   #####            ##
+                                                            #  ##  #
+                                                           # # ## # #
+                                                          #   #  #   #
+                                                         #            #
+
+

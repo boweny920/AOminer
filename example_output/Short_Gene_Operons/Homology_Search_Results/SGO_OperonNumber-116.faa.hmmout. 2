@@ -1,0 +1,13 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      AOminer_Output/Short_Gene_Operons/SGO_OperonNumber-116.faa
+# Target file:     dbPFhmm/TrainPresent_AOPF_nonAOPF_HMMs_ERROR_CORRECT.hmm
+# Option settings: hmmscan -o log.hmm --domtblout AOminer_Output/Short_Gene_Operons/Homology_Search_Results/SGO_OperonNumber-116.faa.hmmout. --noali -E 1e-3 --cpu 1 dbPFhmm/TrainPresent_AOPF_nonAOPF_HMMs_ERROR_CORRECT.hmm AOminer_Output/Short_Gene_Operons/SGO_OperonNumber-116.faa 
+# Current dir:     /mnt/raid5-2/boweny/AOminer/AOminer_V2
+# Date:            Mon Nov 21 14:05:14 2022
+# [ok]

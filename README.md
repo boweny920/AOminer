@@ -1,4 +1,4 @@
-<img src="http://bcb.unl.edu/AcaFinder/img/AOminer-logos.png" width="400" height="400">
+<img src="http://aca.unl.edu/static/images/help_page_pngs/AOminer-logos.png" width="400" height="400">
 
 <center>(c) <a href='http://bcb.unl.edu'>Yin Lab</a>@<a href='https://www.unl.edu'>UNL</a>2022</center>
 
@@ -153,8 +153,8 @@ AOminer needs **.fna**, **.gff** and **.faa** as input. Only **.fna** file as in
 |*<output_dir>*/Homology_Search_Results   | Output folder from Acr homology & HTH domian search |
 |*<output_dir>*/prophage_locations.csv    | Summary of prophage regions discovered |
 |*<output_dir>*/Short_Gene_Operons/SGO_OperonNumber-*<operon_ID>*.faa   | Protein fasta file of short gene operon | 
-|*<output_dir>*/Short_Gene_Operons/SGO_OperonNumber-*<operon_ID>*.faa.hmmout.| hmmscan output of SGO annotation with dbPFhmm |
-|*<output_dir>*/Short_Gene_Operons/SGO_OperonNumber-*<operon_ID>*.faa.hmmout..Coverage_parsed | Coverage parsed hmmscan output of SGO annotation with dbPFhmm |
+|*<output_dir>*/Short_Gene_Operons/Homology_Search_Results/SGO_OperonNumber-*<operon_ID>*.faa.hmmout.| hmmscan output of SGO annotation with dbPFhmm |
+|*<output_dir>*/Short_Gene_Operons/Homology_Search_Results/SGO_OperonNumber-*<operon_ID>*.faa.hmmout..Coverage_parsed | Coverage parsed hmmscan output of SGO annotation with dbPFhmm |
 *<output_dir>*/Short_Gene_Operons/SGO_OperonNumber-*<operon_ID>*.faa.pfamScanOut | Pfam annoatations of proteins of short-Gene-Operons |
 
 ****
@@ -185,7 +185,7 @@ You will see the output result in output_dir/. If you dont specifiy an output_di
 
 ## **V. <span style='color:RebeccaPurple'>Workflow of AOminer</span>**
 
-<img src="http://bcb.unl.edu/AcaFinder/img/AOminer_Pipeline.png">
+<img src="http://aca.unl.edu/static/images/help_page_pngs/AOminer_Pipeline.png">
 
 With provided input, AOminer will proceed with the following pipeline:
 

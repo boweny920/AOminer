@@ -1,0 +1,6 @@
+KEGG Entry	Metabolism	Pathway	Total AMGs	Present AMG KOs
+map00230	Nucleotide metabolism	Purine metabolism	1	K01923
+map00270	Amino acid metabolism	Cysteine and methionine metabolism	3	K00558
+map00440	Metabolism of other amino acids	Phosphonate and phosphinate metabolism	1	K06167
+map00534	Glycan biosynthesis and metabolism	Glycosaminoglycan biosynthesis - heparan sulfate / heparin	1	K01793
+map04122	"Folding, sorting and degradation"	Sulfur relay system	2	K21140

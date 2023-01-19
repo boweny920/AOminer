@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AOPF_174_HMM         -            166 NIPA01000052.1_67    -            187   3.2e-06   24.6   0.0   1   1   8.8e-09   4.8e-06   24.1   0.0    57   143    71   154    64   175 0.80 -
+AOPF_1685_HMM        -            151 NIPA01000052.1_67    -            187   6.5e-06   23.5   0.0   1   1   1.8e-08   9.7e-06   23.0   0.0    72   129    96   153    68   166 0.92 -
+nonAOPF_832_HMM      -            148 NIPA01000052.1_67    -            187   1.3e-05   22.8   0.1   1   1   3.1e-08   1.7e-05   22.4   0.1    66   143    94   172    81   175 0.85 -
+AOPF_1893_HMM        -            170 NIPA01000052.1_67    -            187   3.8e-05   21.0   0.0   1   1   8.7e-08   4.7e-05   20.7   0.0   104   160    99   156    74   165 0.77 -
+AOPF_228_HMM         -            111 NIPA01000052.1_67    -            187   0.00034   18.3   0.0   1   1   9.2e-07    0.0005   17.8   0.0    23    95    77   149    65   153 0.79 -
+AOPF_1686_HMM        -            156 NIPA01000052.1_67    -            187   0.00082   16.7   0.0   1   1   2.7e-06    0.0014   15.9   0.0    39   142    52   150    39   161 0.74 -
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      AOminer_Output/Short_Gene_Operons/SGO_OperonNumber-52.faa
+# Target file:     dbPFhmm/TrainPresent_AOPF_nonAOPF_HMMs_ERROR_CORRECT.hmm
+# Option settings: hmmscan -o log.hmm --domtblout AOminer_Output/Short_Gene_Operons/Homology_Search_Results/SGO_OperonNumber-52.faa.hmmout. --noali -E 1e-3 --cpu 1 dbPFhmm/TrainPresent_AOPF_nonAOPF_HMMs_ERROR_CORRECT.hmm AOminer_Output/Short_Gene_Operons/SGO_OperonNumber-52.faa 
+# Current dir:     /mnt/raid5-2/boweny/AOminer/AOminer_V2
+# Date:            Mon Nov 21 14:05:00 2022
+# [ok]
