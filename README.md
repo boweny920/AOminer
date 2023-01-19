@@ -24,7 +24,7 @@
 
 ## I. Installation / Dependencies
 
-Git clone the Github directory to your own, and go to the AcaFinder directory
+Git clone the Github directory to your own, and go to the AOminer directory
 
 ### Dependences 
 
