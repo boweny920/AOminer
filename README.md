@@ -1,4 +1,4 @@
-<img src="http://aca.unl.edu/static/images/help_page_pngs/AOminer-logos.png" width="400" height="400">
+<img src="http://aca.unl.edu/static/images/help_page_pngs/AOminer-logos.png" width="600" height="400">
 
 <center>(c) <a href='http://bcb.unl.edu'>Yin Lab</a>@<a href='https://www.unl.edu'>UNL</a>2022</center>
 
