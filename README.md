@@ -132,7 +132,7 @@ AOminer needs **.fna**, **.gff** and **.faa** as input. Only **.fna** file as in
 | -l     | --all_protein_length_in_AcrAca_operon    | Max proten length in Acr-Aca operon when length of Acr homolog < 200aa, default=600 |
 | -i     | --intergenic_dist_in_AcrAca_operon      | Maximum Intergenic distance in Acr-Aca operon, default=250 |
 | -r     | --Acr_protein_database     | The Acr proteins that will be used search for Acas, default are the published Acrs + AcrHub predicted Acrs + 2500 high confident Acr prediction of AcrCatalog, default=AcrDatabase.faa |
-| -w     | --Prok     | Provide option -w/--Virus if input data is a Prokaryotic assembled genome/contig |
+| -w     | --Prok     | Provide option -w/--Prok if input data is a Prokaryotic assembled genome/contig |
 | -d     | --threads     | Number of cpu cores to run the program with, default=1 |
 | -z     | --phamDir     | Directory of all pfam hmm files with .dat files and other binaries, default=AcaFinder/all_pFam_hmm | 
 | -a     | --HTH_HMM     | Curated HTH databases, recommended to use the default hmm provided from us, default=AOminer/HTH_hmms/HTH_HMM_strict |
